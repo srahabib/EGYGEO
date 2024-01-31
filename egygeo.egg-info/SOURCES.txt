@@ -1,0 +1,9 @@
+LICENSE
+README.md
+setup.py
+egygeo/__init__.py
+egygeo/egygeo.py
+egygeo.egg-info/PKG-INFO
+egygeo.egg-info/SOURCES.txt
+egygeo.egg-info/dependency_links.txt
+egygeo.egg-info/top_level.txt

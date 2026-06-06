@@ -6,7 +6,7 @@ with open('README.md', "r", encoding="utf-8") as f:
 
 setup(
     name="egygeo",
-    version="1.3.0",
+    version="1.3.1",
     author="Sara Habib",
     author_email="sara.habib48@gmail.com",
     description="A Python package for Egyptian governorate centroids, boundaries, reverse geocoding, and map visualization.",
